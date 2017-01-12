@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabric.iOS", "Fabric.iOS\Fa
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Fabric.Shared", "Fabric.Shared\Fabric.Shared.shproj", "{90A4C615-F8CA-4674-88A2-C7BCC405D5AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabric.iOS", "Fabric.iOS\Fabric.iOS.csproj", "{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -55,5 +57,17 @@ Global
 		{760DBCDE-D6E1-4FB4-9AB2-13BEBD803CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{760DBCDE-D6E1-4FB4-9AB2-13BEBD803CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{760DBCDE-D6E1-4FB4-9AB2-13BEBD803CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Release|iPhone.Build.0 = Release|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

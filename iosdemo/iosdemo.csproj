@@ -120,7 +120,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Fabric.iOS\Fabric.iOS.csproj">
-      <Project>{760DBCDE-D6E1-4FB4-9AB2-13BEBD803CE4}</Project>
+      <Project>{1BB556F7-14B4-4B08-822D-71C4D02AD2C6}</Project>
       <Name>Fabric.iOS</Name>
     </ProjectReference>
   </ItemGroup>
